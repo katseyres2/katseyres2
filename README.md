@@ -5,7 +5,7 @@
 - 📫 How to reach me :
   - Discord: katseyres
   - LinkedIn: https://www.linkedin.com/in/maximilien-denis-136538227/
-  - Email: katseyres.fondling952@passmail.net
+  - Email: maximilien@nightblue.org
 - ⚡Active platforms :
   - HackTheBox: https://app.hackthebox.com/profile/438633
   - RootMe: https://www.root-me.org/katseyres-741017
