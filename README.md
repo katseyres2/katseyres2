@@ -2,6 +2,7 @@
 - 👀 I’m interested in low-level languages, scripting, system administration, offensive security.
 - 🌱 I’m currently learning OSCP and CyberSecurity theory
 - 💞️ I’m looking to collaborate on Passionate Ethical Hackers
+- 📚 You can have a look at my notes here : https://publish.obsidian.md/nightblue
 - 📫 How to reach me :
   - Discord: katseyres
   - LinkedIn: https://www.linkedin.com/in/maximilien-denis-136538227/
