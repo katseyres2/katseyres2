@@ -19,6 +19,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![katseyres2's GitHub stats](https://github-readme-stats.vercel.app/api?username=katseyres2)](https://github.com/anuraghazra/github-readme-stats)
-
-[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/katseyres2/langs)](https://githubtrends.io)
-](https://api.githubtrends.io/user/svg/katseyres2/langs?time_range=one_year&use_percent=True&theme=classic)
+[!()](https://api.githubtrends.io/user/svg/katseyres2/langs?time_range=one_year&use_percent=True&theme=classic)
