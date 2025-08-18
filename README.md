@@ -20,5 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 [![katseyres2's GitHub stats](https://github-readme-stats.vercel.app/api?username=katseyres2)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/katseyres2/langs?time_range=one_year&loc_metric=changed&compact=True&theme=classic)](https://githubtrends.io)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="maximilien-denis-136538227" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/maximilien-denis-136538227?trk=profile-badge">Maximilien Denis</a></div>
               
